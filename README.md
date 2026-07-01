@@ -9,3 +9,8 @@ Pin3: TX - GREEN hoverboard
 Pin4: Secret button  
 GND: Throttle, switch and black wire hoverboard  
 5v: From DCDC  
+
+Hoverboard parameter settings:
+- Use UART3 (3,3v)
+- Enabled electric brake
+- Torque Mode
